@@ -2,7 +2,7 @@
 
 **Technical Program Manager who ships AI that operations teams actually trust.**
 
-I've spent 9 years bridging non-technical business users and engineering teams — currently at a global financial institution, where I take AI from pain point to production: prototype it (LLM/OCR pipelines, agent workflows, MCP integrations), prove it, then carry it through deployment, user testing, and training. ML decision-support systems I've helped ship have been in production since 2019 with measured multi-million-dollar outcomes.
+I've spent 9 years bridging non-technical business users and engineering teams — currently at a global financial institution, where I take AI from pain point to production: prototype it (LLM/OCR pipelines, agent workflows, MCP integrations), prove it, then carry it through deployment, user testing, and training. ML decision-support systems 
 
 ## 🔧 What I build
 
